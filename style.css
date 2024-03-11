@@ -321,7 +321,7 @@ header {
       margin-left: 3rem;
     }
   }
-  .header-right{
+  .header-right {
     margin-right: 3rem;
   }
   .landing-page-header {
@@ -374,7 +374,7 @@ header {
         width: 80px;
       }
     }
-    .header-right{
+    .header-right {
       margin-right: 5rem;
     }
   }
@@ -417,4 +417,16 @@ header {
       }
     }
   }
+}
+ul {
+  list-style: none;
+  li {
+    cursor: pointer;
+  }
+}
+a:hover {
+  color: darkgrey;
+}
+a:active {
+  color: rgb(255, 120, 99);
 }
